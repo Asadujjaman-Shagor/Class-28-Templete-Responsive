@@ -1,0 +1,74 @@
+body,h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Work Sans', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+/* header section */
+.logo-image{
+    width: 100px;
+}
+/* protfolio section */
+.protfolio-section{
+    background-color: #f9f9ff;
+}
+.protfolio-item {
+    position: relative;
+    top: 140px;
+}
+.protfolio-item .btn{
+    background-color: #8392fd;
+}
+/* about section */
+.about-text .btn{
+    background-color: #8392fd;
+}
+.about-text {
+    position: relative;
+    top: 35px;
+}
+/* counter-section */
+.counter-section{
+    background-color: #8392fd;
+}
+/* pricing-section */
+.pricing-section{
+    background-color: #f9f9ff;
+}
+.pricing-item{}
+.pricing-item span {
+    height: 100px;
+    width: 100px;
+    background-color: #eeeef0;
+    display: inline-block;
+    line-height: 100px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 40px;
+    margin-top: 15px;
+}
+.pricing-item ul{}
+.pricing-item ul li{
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    line-height: 60px;
+    font-size: 20px;
+}
+.pricing-item a{}
+
+/* team section */
+.team-section{
+    margin-top: 90px;
+}
+.team-section .card img {
+    width: 130px;
+    height: auto;
+    margin-top: -109px;
+    margin-left: -3px;
+}
+
+/* contuct-section */
+.contuct-section{
+    background-color: #f9f9ff;
+}
